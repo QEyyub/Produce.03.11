@@ -1,0 +1,14 @@
+E:\C# Tasklar\HomeWork.03.11\HomeWork.03.11\bin\Debug\netcoreapp3.1\HomeWork.03.11.exe
+E:\C# Tasklar\HomeWork.03.11\HomeWork.03.11\bin\Debug\netcoreapp3.1\HomeWork.03.11.deps.json
+E:\C# Tasklar\HomeWork.03.11\HomeWork.03.11\bin\Debug\netcoreapp3.1\HomeWork.03.11.runtimeconfig.json
+E:\C# Tasklar\HomeWork.03.11\HomeWork.03.11\bin\Debug\netcoreapp3.1\HomeWork.03.11.runtimeconfig.dev.json
+E:\C# Tasklar\HomeWork.03.11\HomeWork.03.11\bin\Debug\netcoreapp3.1\HomeWork.03.11.dll
+E:\C# Tasklar\HomeWork.03.11\HomeWork.03.11\bin\Debug\netcoreapp3.1\HomeWork.03.11.pdb
+E:\C# Tasklar\HomeWork.03.11\HomeWork.03.11\obj\Debug\netcoreapp3.1\HomeWork.03.11.csproj.AssemblyReference.cache
+E:\C# Tasklar\HomeWork.03.11\HomeWork.03.11\obj\Debug\netcoreapp3.1\HomeWork.03.11.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Tasklar\HomeWork.03.11\HomeWork.03.11\obj\Debug\netcoreapp3.1\HomeWork.03.11.AssemblyInfoInputs.cache
+E:\C# Tasklar\HomeWork.03.11\HomeWork.03.11\obj\Debug\netcoreapp3.1\HomeWork.03.11.AssemblyInfo.cs
+E:\C# Tasklar\HomeWork.03.11\HomeWork.03.11\obj\Debug\netcoreapp3.1\HomeWork.03.11.csproj.CoreCompileInputs.cache
+E:\C# Tasklar\HomeWork.03.11\HomeWork.03.11\obj\Debug\netcoreapp3.1\HomeWork.03.11.dll
+E:\C# Tasklar\HomeWork.03.11\HomeWork.03.11\obj\Debug\netcoreapp3.1\HomeWork.03.11.pdb
+E:\C# Tasklar\HomeWork.03.11\HomeWork.03.11\obj\Debug\netcoreapp3.1\HomeWork.03.11.genruntimeconfig.cache
